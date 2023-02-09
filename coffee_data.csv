@@ -1,0 +1,13 @@
+Continent,Country,Process,Roast,Decaf,Coffee,Water,Ratio,Kyles Rating 1-10
+Africa,Ethiopia,Natural,Light,No,15,240,16,7
+Americas,Colombia,Washed,Medium,No,15,240,16,4
+Americas,Colombia,Washed,Medium,Yes,15,240,16,8
+Asia,Timor Leste,Wet Hulled,Medium,No,15,300,20,7
+Africa,Kenya,Washed,Dark,No,15,300,20,5
+Americas,Costa Rica,Washed,Light,Yes,15,300,20,9
+Africa,Rwanda,Natural,Light,No,15,180,12,5
+Africa,Ethiopia,Natural,Light,No,15,180,12,6
+Africa,Kenya,Washed,Dark,No,15,180,12,3
+Asia,Timor Leste,Wet Hulled,Medium,No,15,300,20,7
+Americas,Colombia,Washed,Medium,Yes,15,300,20,8.5
+Americas,Colombia,Washed,Medium,No,15,300,20,10
